@@ -1,3 +1,17 @@
+# [DevOps-with-Claude-Code-Terraform-EKS-ArgoCD-Helm] - DevOps/Agentic AI Lab
+
+## ⚠️ Developer Notice: Active Engineering & Iteration State
+This codebase is an active Proof of Concept (POC) developed under the **DMI Cohort 2 Micro-Internship Program**. It intentionally contains experimental code paths, unoptimized scripts, and ongoing modular refactoring blocks.
+
+| Metric / Dimension | Current State | Target Architecture |
+| :--- | :--- | :--- |
+| **System Maturity** | Functional Proof of Concept (POC) | Modular Production Script |
+| **Code Readability** | Iterative/Monolithic Scripts | Strict Object-Oriented/Clean Architecture |
+| **Documentation** | Core Architectural Notes Live | Comprehensive API & Docstring Coverage |
+| **Next Engineering Sprint**| Abstracting API calls into dedicated error-handling modules | Implementing automated unit testing loops |
+
+---
+
 # DevOps with Claude Code — Terraform, EKS, ArgoCD & Helm
 
 > **This is the companion repository for the Udemy course:**
